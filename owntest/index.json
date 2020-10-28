@@ -1,0 +1,28 @@
+{
+  "title": "own test",
+  "description": "설명",
+  "difficulty": "Beginner",
+  "time": "1 min",
+  "details": {
+    "steps": [
+      {
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "files": [
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hidefinish": true,
+    "uilayout": "editor-terminal"
+  },
+  "backend": {
+    "imageid": "centos"
+  }
+}
